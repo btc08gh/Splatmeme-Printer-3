@@ -31,7 +31,7 @@ pacman -S \
     mingw-w64-x86_64-gcc \
     mingw-w64-x86_64-python3 \
     mingw-w64-x86_64-python3-pip \
-    mingw-w64-x86_64-python3-setuptools
+    mingw-w64-x86_64-python3-setuptools \
     mingw-w64-x86_64-libjpeg-turbo \
     mingw-w64-x86_64-zlib \
     mingw-w64-x86_64-libtiff \
@@ -41,7 +41,7 @@ pacman -S \
     mingw-w64-x86_64-openjpeg2 \
     mingw-w64-x86_64-libimagequant \
     mingw-w64-x86_64-libraqm \
-    mingw-w64-x86_64-make
+    mingw-w64-x86_64-make \
     mingw-w64-x86_64-avr-gcc \
     mingw-w64-x86_64-avr-libc
 ```
